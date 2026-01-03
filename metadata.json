@@ -1,0 +1,5 @@
+{
+  "name": "MyPortfolio",
+  "description": "A dynamic portfolio with an admin mode to edit projects and experience details directly in the UI.",
+  "requestFramePermissions": []
+}
